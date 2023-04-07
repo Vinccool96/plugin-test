@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="javadoc" pattern="gitignore||lib:com.intellij.codeInsight.javadoc..*" />
+</component>
